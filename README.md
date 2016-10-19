@@ -1,2 +1,2 @@
 # mobile_sandbox
-Test mobile application for trying new things.
+Sandbox mobile application for trying new things.
